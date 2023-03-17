@@ -2,4 +2,4 @@
 <div algin="center">- 🌱 I’m currently learning: **UE5 and C++ Development.**</div>
 <div algin="center">- 😄 Pronouns: **he/him**</div>
 
-<img algin="center" alt="Tinsley Devers Github Stats" src="https://github-readme-stats-tinsleydevers.vercel.app/api?username=TinsleyDevers&show_icons=true&hide_border=true" />
+<img algin="left" alt="Tinsley Devers Github Stats" src="https://github-readme-stats-tinsleydevers.vercel.app/api?username=TinsleyDevers&show_icons=true&hide_border=true" />
