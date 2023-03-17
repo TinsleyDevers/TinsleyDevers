@@ -2,6 +2,4 @@
 - 🌱 I’m currently learning: **UE5 and C++ Development.**
 - 😄 Pronouns: **he/him**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-tinsleydevers.vercel.app/" />
-</a>
+<img algin="left" alt="Tinsley Devers Github Stats" src="https://github-readme-stats-tinsleydevers.vercel.app/" />
