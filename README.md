@@ -28,9 +28,9 @@ I'm a passionate game developer and software engineer. I have experience in C++,
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TinsleyDevers&theme=radical" alt="Tinsley Devers' Streak Stats" height="150" />
 </a>
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TinsleyDevers&rank=-f,-d,-c,-b&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TinsleyDevers&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 📫 Get in Touch
 
