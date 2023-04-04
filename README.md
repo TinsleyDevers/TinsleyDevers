@@ -18,7 +18,13 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 
 ## 📈 GitHub Stats
 
-![Tinsley Devers' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinsleyDevers&show_icons=true&theme=radical)
+<a href="https://github.com/TinsleyDevers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TinsleyDevers&show_icons=true&theme=radical" alt="Tinsley Devers' GitHub Stats" height="150" />
+</a>
+<a href="https://github.com/TinsleyDevers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinsleyDevers&layout=compact&theme=radical" alt="Tinsley Devers' Most Used Languages" height="150" />
+</a>
+
 
 ## 📫 Get in Touch
 
