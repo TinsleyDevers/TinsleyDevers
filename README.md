@@ -30,7 +30,7 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TinsleyDevers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TinsleyDevers&rank=-f,-d,-c,-b&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Get in Touch
 
