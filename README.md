@@ -16,7 +16,7 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718)
 ![UE5](https://img.shields.io/badge/-UE5-313131?style=flat&logo=unreal-engine&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Streaks
 
 <a href="https://github.com/TinsleyDevers">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TinsleyDevers&show_icons=true&theme=radical" alt="Tinsley Devers' GitHub Stats" height="150" />
@@ -24,7 +24,13 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 <a href="https://github.com/TinsleyDevers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinsleyDevers&layout=compact&theme=radical" alt="Tinsley Devers' Most Used Languages" height="150" />
 </a>
+<a href="https://github.com/TinsleyDevers">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TinsleyDevers&theme=radical" alt="Tinsley Devers' Streak Stats" height="150" />
+</a>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TinsleyDevers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Get in Touch
 
@@ -32,7 +38,4 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 - Email: [tinsley.devers@gmail.com](mailto:tinsley.devers@gmail.com)
 - Website: [tinsley.dev](https://tinsley.dev)
 
-<div>
-<img algin="left" alt="Tinsley Devers Github Language Stats" src="https://github-readme-stats-tinsleydevers.vercel.app/api/top-langs/?username=TinsleyDevers&theme=tokyonight&layout=compact&show_icons=true&hide_border=true" />  
-<img algin="right" alt="Tinsley Devers Github Stats" src="https://github-readme-stats-tinsleydevers.vercel.app/api?username=TinsleyDevers&theme=tokyonight&layout=compact&show_icons=true&hide_border=true" />
-</div>
+![Profile views](https://gpvc.arturio.dev/TinsleyDevers)
