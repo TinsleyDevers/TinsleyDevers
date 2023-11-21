@@ -37,5 +37,3 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 - LinkedIn: [linkedin.com/in/tinsley-devers-40820a1b9/](https://www.linkedin.com/in/tinsley-devers-40820a1b9/)
 - Email: [tinsley.devers@gmail.com](mailto:tinsley.devers@gmail.com)
 - Website: [tinsley.dev](https://tinsley.dev)
-
-![Profile views](https://gpvc.arturio.dev/TinsleyDevers)
