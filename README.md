@@ -4,7 +4,7 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 
 - 🔭 I’m currently working on Minecraft Java Plugins and an Undisclosed Project.
 - 🌱 I’m currently learning real-time procedual generation.
-- 😄 Pronouns: he/him.
+- 😄 Pronouns: he/him
 
 ## 🛠️ Technologies & Tools
 
