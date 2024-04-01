@@ -3,7 +3,7 @@
 I'm a passionate game developer and software engineer. I have experience in C++, C#, Python, CSS, HTML, JS, and UE5. I love exploring new technologies, building innovative projects, and collaborating with others
 
 - 🔭 I’m currently working on Excelbnb and an Undisclosed Project.
-- 🌱 I’m currently learning real-time procedual generation.
+- 🌱 I’m currently learning web scraping and data analysis.
 - 😄 Pronouns: he/him
 
 ## 🛠️ Technologies & Tools
