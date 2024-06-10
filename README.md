@@ -4,7 +4,7 @@ I'm a passionate game developer and software engineer. I have experience in C++,
 
 - 🔭 I’m currently working on an unanounced project.
 - 🌱 I’m currently learning UE5.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 
 ## 🛠️ Technologies & Tools
 
