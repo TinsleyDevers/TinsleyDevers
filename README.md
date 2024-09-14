@@ -1,6 +1,6 @@
 # Hi there, I'm Tinsley Devers 👋
 
-I'm a passionate game developer and software engineer. I have experience in C++, Java, Python, HTML, CSS, JS, and UE5. I love exploring new technologies, building innovative projects, and collaborating with others.
+I'm a passionate game developer and software engineer. I have experience in C++, Python, HTML, CSS, JS, and UE5. I love exploring new technologies, building innovative projects, and collaborating with others.
 
 - 🔭 I’m currently working on an unanounced project.
 - 🌱 I’m currently learning OpenGL.
