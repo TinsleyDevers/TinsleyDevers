@@ -2,6 +2,8 @@
 
 I'm a passionate game developer and software engineer. I have experience in C++, Python, HTML, CSS, JS, and UE5. I love exploring new technologies, building innovative projects, and collaborating with others.
 
+Happy Holidays!
+
 - 🔭 I’m currently working on an unanounced project.
 - 🌱 I’m currently learning OpenGL.
 - 😄 Pronouns: he/him.
