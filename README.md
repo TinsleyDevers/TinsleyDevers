@@ -6,18 +6,17 @@
 
 <p align="center">
   <em>
-    Currently building experiences in C++, Python, and Unreal Engine.<br>
-    Learning about graphics programming and new technologies.
+    Currently building projects in C++, Python, and Unreal Engine.<br>
+    Learning about graphics programming and 3D Modeling.
   </em>
 </p>
 
 ---
 
-### 🎉 Happy Holidays!
+### 🎉 What I'm Working On!
 
 - 🔭 I’m currently working on an **unannounced project**.
 - 🌱 I’m currently **learning OpenGL** and exploring advanced rendering techniques.
-- 😄 **Pronouns:** he/him
 
 ---
 
